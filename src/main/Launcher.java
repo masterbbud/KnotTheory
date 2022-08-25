@@ -110,7 +110,7 @@ public class Launcher extends PApplet {
 	public ArrayList<DisplayField> fields = new ArrayList<DisplayField>();
 	
 	public static void main(String[] args) {
-		System.out.println("-------------\nINPUT NAME\n-------------\n");
+		System.out.println("-------------\nKnot Creator\n-------------\n");
 		PApplet.main("main.Launcher");
 	}
 
